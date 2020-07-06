@@ -11,7 +11,7 @@ I wanted to sort the colors from this image by perceived brightness
 ## Steps
 
 ### 1. Map each pixel to its perceived brightness 
-This is the only step where the script is used. We take the original image and, for each pixel, map the color to its perceive brightness. Then we display the value on the red component. 
+This is the only step where [the script](https://github.com/FlorianKempenich/PerceivedBrightness/blob/master/map_to_perceived_brightness.py) is used. We take the original image and, for each pixel, map the color to its perceive brightness. Then we display the value on the red component. 
 ![mapped to perceived brightness](https://github.com/FlorianKempenich/PerceivedBrightness/raw/master/results/perceived_option_1.png)
 
 ### 2. Manually sort by perceived brightness
