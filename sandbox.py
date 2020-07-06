@@ -1,6 +1,5 @@
 
 from PIL import Image
-from multiprocessing import Pool
 from math import sqrt, pow
 
 
